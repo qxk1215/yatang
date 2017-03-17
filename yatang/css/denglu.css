@@ -1,0 +1,39 @@
+*{margin:0;padding:0;}
+a{text-decoration: none;}
+body{font-family: "微软雅黑";font-size:12px;}
+img{border:0;}
+.header{width:100%;height:90px;padding:20px 0 10px 0;}
+.yatang{width:1200px;height:60px;margin:auto;position:relative;}
+.logo{width:171px;height:60px;}
+.r_ya{width:300px;height:22px;list-style-type:none;position:absolute;right:0;bottom:0;}
+.r_ya>li{float:left;margin-left: 21px;}
+.r_ya>li>a{font-size:12px;color:#666;text-decoration:none;line-height:22px;}
+.r_ya>li>a:hover{color:#f00;}
+/*header end*/
+.center1{width:100%;height:510px;background: #f9f9f9;}
+.center{width:1200px;height:510px;margin:auto;padding:50px 0;}
+.pic{width:545px;height:443px;margin-left:110px;float:left;}
+.c-right{width:400px;height:350px;float:right;border:1px solid #ccc;margin-top:30px;}
+.UserLogin{height:35px;line-height:35px;border-bottom: 1px solid #ccc;text-align: center;font-size: 16px; font-weight: bold;background:#f8f8f8;}
+.login{width:355px;height:273px;padding:20px 25px 20px 20px;background:#fff;}
+.biaodan{width:350px;height:270px;}
+.biaodan>div{width:310px;height:32px;padding:10px 20px;position:relative;}
+.biaodan>div>span{display:block;width:60px;height:23px;font-size:15px;color:#333;padding-top:6px;margin-right:10px;float:left;text-align: right;}
+#text1{width:230px;height:30px;display:block;float:left;border:1px solid #d1d1d1}
+#pwd1{width:230px;height:30px;display:block;float:left;border:1px solid #d1d1d1}
+#text2{width:90px;height:30px;border:1px solid #d1d1d1;display:block;float:left;}
+#pic{display:block;float:left;margin-left:5px;border:0;}
+#huan{display:block;font-size:14px;position:absolute;right:20px;top:0;}
+#sub{width:234px;height:35px;margin-left:70px;border-radius: 3px;background:#e32c28;line-height:35px;border:0;cursor: pointer;}
+.find{text-align: center;}
+.find>a:nth-of-type(1){padding-right:3px;}
+.find>a:hover{color:#E4393C;}
+/*center end*/
+.x-footer{width:100%;background:#fff;}
+.x-01footer{margin:auto;text-align: center;font-size: 12px;color:#666;padding-top: 10px;}
+.x-02footer>a{color:#666;}
+.x-02footer>a:hover{color:#e32c28;}
+.x-03footer>a{color:#666;}
+.x-03footer>a:hover{color:#e32c28;}
+.x-04footer{padding: 10px 0 20px 0;}
+.x-04footer>a{display:inline-block;}
